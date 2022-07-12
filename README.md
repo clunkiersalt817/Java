@@ -22,8 +22,8 @@ Ans. Yes.
 
 -Instance initializer block : It is used to initialize the data member of a class at the time of its creation.
 
--"this" is a reserved keyword and therefore it cannot store or used to create an object.
+-## "this" is a reserved keyword and therefore it cannot store or used to create an object.
 
--Interface is just like a class 
+-## Interface is just like a class 
 - **methods are by default abstract and public.**
 - **the data members are to be initialized at the time of declaration.**
