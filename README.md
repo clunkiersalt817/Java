@@ -25,5 +25,5 @@ Ans. Yes.
 -"this" is a reserved keyword and therefore it cannot store or used to create an object.
 
 -Interface is just like a class 
-- ###methods are by default abstract and public.###
-- ###the data members are to be initialized at the time of declaration.###
+- **methods are by default abstract and public.**
+- **the data members are to be initialized at the time of declaration.**
