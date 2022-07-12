@@ -1,5 +1,3 @@
-package JavaTraining.Day2;
-
 public class Overloadmainmethod {
     public static void main() {
         System.out.println("No argument main called !");

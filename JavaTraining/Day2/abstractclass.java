@@ -1,5 +1,3 @@
-package JavaTraining.Day2;
-
 abstract class Area{//We cannot instantiate an abstract class i.e we cannot create an object of abstract class and it is always a base class for some other class.
     void AreaOfRectangle(int l, int w){
         int ar = l*w;

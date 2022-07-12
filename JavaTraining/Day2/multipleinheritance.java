@@ -1,7 +1,4 @@
 //Multiple inheritance cannot be implemented in JAVA
-
-package JavaTraining.Day2;
-
 class A {
     void multiplication(int a, int b) {
         int r1 = a * b;

@@ -1,5 +1,3 @@
-package JavaTraining.Day2;
-
 interface college {
     void studentDetails(int rollNo, String name);
 
