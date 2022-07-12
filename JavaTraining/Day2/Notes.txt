@@ -1,0 +1,21 @@
+Java Notes Day 2
+
+Multiple inheritance is not supported in JAVA.
+
+Super keyword().
+Base class Constructor is never inherited in a derived class.
+To call Base class constructor we should use super(with ...args) in the derived class.
+
+Final keyword is used to stop value change.
+A final variable that is not initialized at the time of declaration is known as blank final variable and it can only be initialized in a Constructor.
+
+static final variable and static blank final variable
+
+Q1. Can a Constructor be declared private ?
+Ans. Yes, but cannot be declared as final.
+
+Q2. Can we overload JAVA main method ?
+Ans. Yes.
+
+Type Promotion
+
