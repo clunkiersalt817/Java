@@ -15,5 +15,6 @@ class Main {
             revstr=revstr+str.charAt(i);
         }
         System.out.println(revstr);
+        s.close();
     }
 }
